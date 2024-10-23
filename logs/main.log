@@ -1,0 +1,37 @@
+2024-10-10 16:09:47,076 - DEBUG - Generating image for scene 1: **Timeline**
+2024-10-10 16:09:49,442 - INFO - Image saved: output/images/scene_1.png
+2024-10-10 16:09:49,442 - DEBUG - Animating image for scene 1: output/images/scene_1.png
+2024-10-10 16:09:49,484 - INFO - Animation completed for scene 1. Video saved: output/videos/animated_scene_1.mp4
+2024-10-10 16:09:49,484 - DEBUG - Generating image for scene 2: 
+2024-10-10 16:09:51,298 - ERROR - Error generating image for scene 2: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:51,299 - DEBUG - Generating image for scene 3: 1. **Setting Up the Trip (Duration: 2 days)**
+2024-10-10 16:09:52,395 - ERROR - Error generating image for scene 3: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:52,396 - DEBUG - Generating image for scene 4: * Emma and Ryan spend two days preparing for their trip, packing their bags and researching the best hiking trails in the mountains.
+2024-10-10 16:09:53,651 - ERROR - Error generating image for scene 4: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:53,652 - DEBUG - Generating image for scene 5: * They pack snacks, water, and other essentials, and set off early on the third day to begin their adventure.
+2024-10-10 16:09:55,071 - ERROR - Error generating image for scene 5: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:55,072 - DEBUG - Generating image for scene 6: 2. **Hiking Through the Mountains (Duration: 4 hours)**
+2024-10-10 16:09:56,232 - ERROR - Error generating image for scene 6: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:56,233 - DEBUG - Generating image for scene 7: * Emma and Ryan hike through the mountains for several hours, taking in the breathtaking views and enjoying each other's company.
+2024-10-10 16:09:57,498 - ERROR - Error generating image for scene 7: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:57,498 - DEBUG - Generating image for scene 8: * They stop at scenic viewpoints, have snacks and water breaks, and continue on their way until they reach a clearing surrounded by tall trees.
+2024-10-10 16:09:58,691 - ERROR - Error generating image for scene 8: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:58,692 - DEBUG - Generating image for scene 9: 3. **Discovering the Lake (Duration: 30 minutes)**
+2024-10-10 16:09:59,881 - ERROR - Error generating image for scene 9: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:09:59,882 - DEBUG - Generating image for scene 10: * Emma and Ryan stumble upon a small lake in the center of the clearing, its surface reflecting the stars beginning to twinkle in the night sky.
+2024-10-10 16:10:00,990 - ERROR - Error generating image for scene 10: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:10:00,991 - DEBUG - Generating image for scene 11: * They sit down on a rocky outcropping, watching as the stars grow brighter and brighter.
+2024-10-10 16:10:02,191 - ERROR - Error generating image for scene 11: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:10:02,192 - DEBUG - Generating image for scene 12: 4. **Confession and Kiss (Duration: 10 minutes)**
+2024-10-10 16:10:03,345 - ERROR - Error generating image for scene 12: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:10:03,346 - DEBUG - Generating image for scene 13: * Ryan reveals his feelings to Emma, telling her that he might be falling for her.
+2024-10-10 16:10:04,474 - ERROR - Error generating image for scene 13: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:10:04,475 - DEBUG - Generating image for scene 14: * Emma's heart skips a beat as she looks at Ryan, and they share a tender kiss under the starry sky.
+2024-10-10 16:10:05,909 - ERROR - Error generating image for scene 14: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:10:05,909 - DEBUG - Generating image for scene 15: 5. **Returning Down the Mountain (Duration: 2 hours)**
+2024-10-10 16:10:07,264 - ERROR - Error generating image for scene 15: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-10 16:10:07,265 - DEBUG - Generating image for scene 16: * Emma and Ryan reluctantly get to their feet, brushing off the leaves and taking one last look at the lake before continuing on their hike.
+2024-10-18 11:10:04,525 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
+2024-10-18 11:36:15,431 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
+2024-10-18 11:44:52,893 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
+2024-10-22 16:56:01,621 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
