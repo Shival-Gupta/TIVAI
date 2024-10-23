@@ -13,3 +13,4 @@
 2024-10-10 16:10:04,475 - ERROR - Error generating image for scene 13: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
 2024-10-10 16:10:05,909 - ERROR - Error generating image for scene 14: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
 2024-10-10 16:10:07,265 - ERROR - Error generating image for scene 15: 429 Client Error: Too Many Requests for url: https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell
+2024-10-23 07:45:30,810 - INFO - Image saved: output/images/scene_1.png

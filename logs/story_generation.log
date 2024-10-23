@@ -246,3 +246,17 @@ Finally, they reluctantly got to their feet, brushing off the leaves and taking 
 2024-10-10 16:10:07,265 - INFO - Generating image for scene 16
 2024-10-10 16:10:07,265 - DEBUG - Generating image for scene 16: * Emma and Ryan reluctantly get to their feet, brushing off the leaves and taking one last look at the lake before continuing on their hike.
 2024-10-10 16:10:07,267 - DEBUG - Starting new HTTPS connection (1): api-inference.huggingface.co:443
+2024-10-23 07:48:21,667 - INFO - [PROMPT]: Two friends on a trip to the mountains
+2024-10-23 07:48:21,667 - INFO - Generating story, timeline, and image prompts
+2024-10-23 07:48:21,667 - INFO - Executing command: ollama run llama3.2 Generate a detailed, vivid, and engaging narrative based on the following story idea. The response should be structured and separated by the delimiter `=====` in the following order:
+
+1. **Story**: Write a descriptive story with a clear beginning, middle, and end, focusing on character development, setting, emotions, and significant events.
+
+2. **Timeline**: Break the story into key scenes or moments in chronological order. For each scene, describe the events and actions with an approximate duration for each scene.
+
+3. **Image Prompts**: For each important moment in the story, provide creative descriptions for images. Include details like scenery, characters, colors, moods, and objects that would visually represent the scene.
+
+Use the delimiter `=====` to separate the three sections.
+
+### Story Idea:
+Two friends on a trip to the mountains

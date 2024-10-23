@@ -35,3 +35,5 @@
 2024-10-18 11:36:15,431 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
 2024-10-18 11:44:52,893 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
 2024-10-22 16:56:01,621 - INFO - Loading model: black-forest-labs/FLUX.1-schnell
+2024-10-23 07:45:18,923 - DEBUG - Generating image for scene 1: Hello world red sky
+2024-10-23 07:45:30,810 - INFO - Image saved: output/images/scene_1.png
