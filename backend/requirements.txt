@@ -1,0 +1,5 @@
+openai
+torch
+diffusers
+gtts
+moviepy

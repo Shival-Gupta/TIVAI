@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+node_modules
+npm-debug.log
+.env
+*.pyd
+*.git
+*.venv
+logs/
+outputs/
