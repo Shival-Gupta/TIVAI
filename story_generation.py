@@ -39,7 +39,7 @@ def generate_story(prompt):
     full_prompt = instruction + prompt
 
     # Define the command to run the model
-    command = ['ollama', 'run', 'llama3.2', full_prompt]
+    command = ['ollama', 'run', 'llama3.1', full_prompt]
 
     logging.info(f"Executing command: {' '.join(command)}")
 
